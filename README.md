@@ -1,6 +1,6 @@
 # ig_clone
 
-A new Flutter project.
+This is a Mobile App project using Flutter
 
 ## Getting Started
 
